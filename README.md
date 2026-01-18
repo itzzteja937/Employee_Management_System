@@ -30,6 +30,7 @@ The **Employee Management System (EMS)** is a Python-based console application d
 
 Employee_Management_System/
 │
+├── .gitignore
 ├── main.py # Entry point of the application
 ├── auth.py # User authentication logic
 ├── employee.py # Employee CRUD operations
@@ -76,3 +77,4 @@ cd Employee_Management_System
 This project is licensed under the MIT License.
 
 ---
+
