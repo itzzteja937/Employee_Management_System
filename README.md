@@ -1,6 +1,6 @@
 # Employee Management System (EMS)
 
-The **Employee Management System (EMS)** is a Python-based console application designed to manage employee records efficiently. It includes secure user authentication and allows authorized users to perform CRUD (Create, Read, Update, Delete) operations on employee data using an SQLite database.
+This project demonstrates backend development fundamentals, secure user authentication, and database management using Python and SQLite.
 
 ---
 
@@ -77,4 +77,5 @@ cd Employee_Management_System
 This project is licensed under the MIT License.
 
 ---
+
 
